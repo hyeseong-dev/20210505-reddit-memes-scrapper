@@ -13,6 +13,17 @@
 3. 구분된 카테고리별 이미지들을 GET, POST 요청에 따라서 API를 생성
 4. POST 요청 시 이미 생성된 디렉토리에 "타임포맷-파일이름.확장자'형식으로 저장
 
+### 활용 패키지 및 라이브러리 
+
+- praw
+- beautifulsoup4
+- aiohttp
+- python-multipart
+- requests
+- uvicorn
+- fastapi
+- python-dotenv
+
 ### <프로젝트 디렉토리 구조>
 ![image](https://user-images.githubusercontent.com/57933835/117150748-651d2880-adf3-11eb-84bf-697020e6fb28.png)
 
@@ -21,5 +32,14 @@
 
 ### Modules
 #### main.py
+![image](https://user-images.githubusercontent.com/57933835/117151356-f42a4080-adf3-11eb-94eb-a6cc4675e397.png)
+
+#### meme_collector.py
+![image](https://user-images.githubusercontent.com/57933835/117151420-05734d00-adf4-11eb-98dc-06f56bb3f821.png)
+![image](https://user-images.githubusercontent.com/57933835/117151454-0e641e80-adf4-11eb-9e5f-ac78533e0e6c.png)
+
+#### services.py
+![image](https://user-images.githubusercontent.com/57933835/117151482-18861d00-adf4-11eb-9273-3e61b159cf6b.png)
+
 
 
