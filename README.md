@@ -41,5 +41,22 @@
 #### services.py
 ![image](https://user-images.githubusercontent.com/57933835/117151482-18861d00-adf4-11eb-9273-3e61b159cf6b.png)
 
+### GET 요청 시 
+여러 general-memes 중 랜덤한 이미지를 요청의 응답으로 처리하도록 로직을 구성하였습니다.
+![image](https://user-images.githubusercontent.com/57933835/117153133-a6163c80-adf5-11eb-9611-2ac08bc0d86f.png)
+![image](https://user-images.githubusercontent.com/57933835/117153249-c219de00-adf5-11eb-89d8-aa5f2ef6f81b.png)
+
+### POST 요청 시 
+![image](https://user-images.githubusercontent.com/57933835/117153502-00af9880-adf6-11eb-8579-2584ca7bd1d3.png)
+
+<파일 선택>
+![image](https://user-images.githubusercontent.com/57933835/117153589-191fb300-adf6-11eb-8039-53953380feb6.png)
+
+<response된 이미지>
+![image](https://user-images.githubusercontent.com/57933835/117153790-42d8da00-adf6-11eb-9da5-56c169000674.png)
+
+<지정된 형식의 이름으로 저장된 이미지 파일>
+![image](https://user-images.githubusercontent.com/57933835/117154029-7451a580-adf6-11eb-9796-00bc11145a11.png)
+
 
 
